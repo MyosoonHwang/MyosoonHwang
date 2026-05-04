@@ -8,7 +8,6 @@
 <br/>
 
 ## 🛠 Tech Stacks
-<!-- 기술 스택 배지: 클라우드 엔지니어 핵심 역량 위주 -->
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -21,7 +20,6 @@
 <br/>
 
 ## 📈 Contribution & Activity
-<!-- 깃허브 활동 그래프 -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyosoonHwang&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%"/>
 </a>
@@ -29,7 +27,6 @@
 <br/>
 
 ## 🐾 Git Farm
-<!-- Gitanimals (농장) -->
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/MyosoonHwang" width="100%"/>
@@ -39,5 +36,5 @@
 <br/>
 
 ---
-* ☁️ **Focused on:** Multi-Cloud Architecture, MLOps Infrastructure, AI-Driven Automation
-* 🛡 **Recent Projects:** Project SENTINEL (SPIRE-based Identity), BookFlow AI
+* ☁️ **Focused on:** Multi-Cloud Architecture, Infrastructure as Code (IaC), Automation
+* 🛡 **Interest:** Cloud Security, MLOps Infrastructure, Scalable Systems
