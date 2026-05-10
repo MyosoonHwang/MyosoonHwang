@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Woohyeok Hwang
-### ☁️ Cloud System Engineer | Solutions Architect
+### ☁️ Cloud Engineer | Solutions Architect
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00a8e8&height=200&section=header&text=Cloud%20Architecture&fontSize=70" width="100%"/>
